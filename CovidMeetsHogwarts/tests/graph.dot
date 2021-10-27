@@ -1,0 +1,5 @@
+graph hogwarts {
+    classrooms -- hallway;
+    hallway -- bedrooms;
+    hallway -- outdoors;
+}
